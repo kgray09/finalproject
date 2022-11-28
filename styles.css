@@ -503,6 +503,7 @@ form #signUp {
     font-size: 1rem;
     align-items: center;
     text-transform: uppercase;
+    -webkit-appearance: none;
     border-radius: 0;
 }
 form #signUp:hover {
